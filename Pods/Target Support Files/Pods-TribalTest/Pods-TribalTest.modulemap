@@ -1,0 +1,6 @@
+framework module Pods_TribalTest {
+  umbrella header "Pods-TribalTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
